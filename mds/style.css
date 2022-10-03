@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'sans serif', 'Julee';
+}
+
+.titulo1 {
+    font-family: 'Julee';
+    color: #8A0000;
+    font-size: 65px;
+    font-weight: 400;
+}
+
+.container img{
+    position: absolute;
+    width: 633px;
+    height: 356px;
+    left: -102px;
+    top: 110px;
+}
